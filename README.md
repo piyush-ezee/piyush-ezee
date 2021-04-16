@@ -5,7 +5,7 @@
  2. ?
 
 #### 🌱 I’m currently learning ...
- 1. Vue3 Testing
+ 1. Vue3 features
  2. Micro Frontends
 
 <!--
