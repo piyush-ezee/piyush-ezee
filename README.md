@@ -2,7 +2,8 @@
 
 ### 🔭 I’m currently working on ...
  1. Nuxt Boilerplate Template(Nuxt, Vue, Composition-Api, TypeScript, Vuetify, Wdio, Mocha, Vue-test-utils, )
- 2. D3 visulization in COVID Dashboard
+ 2. COVID Dashboard 
+ 3. Quasar with vue3
 
 #### 🌱 I’m currently learning ...
  1. Vue3 features
