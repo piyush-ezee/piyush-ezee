@@ -8,7 +8,8 @@
 #### 🌱 I’m currently learning ...
  1. Vue3 features
  2. Micro Frontends
-
+ 3. Puppeteer
+ 4. Vue Component/Plugin Build
 <!--
 **piyush-ezee/piyush-ezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
