@@ -3,10 +3,11 @@
 ### 🔭 I’m currently working on ...
  1. Vue Component/Plugin Build
  2. Nuxt Boilerplate Template(Nuxt, Vue, Composition-Api, TypeScript, Vuetify, Wdio, Mocha, Vue-test-utils, )
+ 3. COVID Dashboard (Quasar with Vue3)
 
 #### 🌱 I’m currently learning ...
- 1. Strapi
- 2. COVID Dashboard (Quasar with Vue3)
+ 1. Deno Runtime
+ 2. Strapi
  3. Micro Frontends
  4. Puppeteer
  
